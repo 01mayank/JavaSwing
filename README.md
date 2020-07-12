@@ -1,0 +1,2 @@
+# JavaSwing
+This repository contains a Simple Inventory Management System project based on Java Swing GUI, where i've included some basic CRUD operations like adding a new project, Updating and deleting products. I'm using XML file to store/retrieve data in back end by using JAXB framework and used Core Java, Swing for creating this desktop application. Pleaes feel free to contribute in this project to learn or improve this.
